@@ -16,11 +16,15 @@ Por consiguiente cada macro estado o estado termodinámico contiene dentro de si
 $$
 S = k\ ln W
 $$
-        
+
+<div align="center">
+    
 | Simbolo | Significado |
 |----------|-----------|
 | S  | Entropía    | Dato 3    |
 | k   | Constante de Bolztmann   |
 | W  | Numero de microestados posibles    |
-        
+
+</div>
+
 Por lo que vemos la entropía como la medida de la cantidad de microestados posibles dentro de un estado macroscópico determinado.
