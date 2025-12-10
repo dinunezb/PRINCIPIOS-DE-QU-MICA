@@ -19,7 +19,7 @@ $$
 
 <div align="center">
     
-| Simbolo | Significado |
+| Símbolo | Significado |
 |----------|-----------|
 | S  | Entropía    | Dato 3    |
 | k   | Constante de Bolztmann   |
