@@ -11,7 +11,7 @@ Definamos a modo de ilustración un sistema, un mol de gas confinado cuya concen
 
 El estado en el cual las propiedades macroscópicas han sido definidas (nuestro gas confinado) es un macro estado, los microestados van a ser todas las posibilidades dentro de ese macro estado, es decir todas las posibles combinaciones de energía cinética y ubicación de cada una de las partículas dentro del macro estado.
 
-Por consiguiente cada macro estado o estado termodinámico contiene dentro de si un número de microestados posibles(W).
+Por consiguiente cada macro estado o estado termodinámico contiene dentro de si un número de microestados posibles (W) .
 
 $$
 S = k\ ln W
