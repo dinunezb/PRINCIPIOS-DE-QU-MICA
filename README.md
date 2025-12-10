@@ -27,4 +27,12 @@ $$
 
 </div>
 
-Por lo que vemos la entropía como la medida de la cantidad de microestados posibles dentro de un estado macroscópico determinado.
+Por lo que vemos la entropía como la medida de la cantidad de microestados posibles dentro de un estado macroscópico determinado.[^1][^2]
+
+
+
+
+---
+## Bibliografía
+[^1]:Çengel, Y. A., & Boles, M. A. (with Martínez Bautista, A. L.). (2015). Termodinámica. McGraw-Hill.
+[^2]:Brown, T. L., LeMay, H. E., Bursten, B. E., Murphy, C. J., & Woodward, P. M. (with García Hernández, A. E.). (2014). Química: La ciencia central (12a ed.). Pearson Educación.
