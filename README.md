@@ -1,1 +1,26 @@
-# PRINCIPIOS-DE-QU-MICA
+# PRINCIPIOS DE QUÍMICA
+- ## Definiciones de entropía
+    - 1 Definición historica
+      
+    ---
+
+    - 2 Definición bajo la termodinámica estadística:
+      
+Para entender la entropía bajo este paradigma primero debemos definir que son los micro y macro estados. 
+Definamos a modo de ilustración un sistema, un mol de gas confinado cuya concentración, presión y temperatura son constantes, al observar recordamos que cada una de las partículas confinadas está en movimiento, por lo que en cada instante todas y cada una de ellas van a tener una posición y energía cinética partículas.
+
+El estado en el cual las propiedades macroscópicas han sido definidas (nuestro gas confinado) es un macro estado, los microestados van a ser todas las posibilidades dentro de ese macro estado, es decir todas las posibles combinaciones de energía cinética y ubicación de cada una de las partículas dentro del macro estado.
+
+Por consiguiente cada macro estado o estado termodinámico contiene dentro de si un número de microestados posibles(W).
+
+$$
+S = k\ ln W
+$$
+        
+| Simbolo | Significado |
+|----------|-----------|
+| S  | Entropía    | Dato 3    |
+| k   | Constante de Bolztmann   |
+| W  | Numero de microestados posibles    |
+        
+Por lo que vemos la entropía como la medida de la cantidad de microestados posibles dentro de un estado macroscópico determinado.
