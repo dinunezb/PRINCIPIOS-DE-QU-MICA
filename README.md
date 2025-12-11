@@ -40,7 +40,7 @@
 
   Por consiguiente cada macro estado o estado termodinámico contiene dentro de si un número de microestados posibles (W) .
 
-  $$
+$$
 S = k\ ln W
 $$
 
