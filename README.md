@@ -89,7 +89,36 @@ $$
 
 ---
 - ## Segunda Ley de la termodinámica
+  
+  La segunda ley de la termodinámica dice que en cualquier proceso real la entropía total del universo nunca disminuye. Esto quiere decir que los procesos naturales tienen una dirección preferida y que cada transformación irreversible genera más entropía.
 
+  Generalmente esta ley se ha explicado de varias maneras similares. Por ejemplo, Clausius dijo que el calor no puede pasar por sí solo de un cuerpo frío a uno caliente. Kelvin–Planck afirmó que no es posible convertir todo el calor absorbido en trabajo útil sin que ocurran otros cambios. Y Carathéodory señaló que cerca de cualquier estado existen otros estados que no se pueden alcanzar mediante procesos adiabáticos (procesos sin intercambio de calor)
+
+  En una definición más moderna propuesta por Lieb y Yngvason, existe una función llamada entropía que ordena los estados según si se pueden transformar adiabáticamente unos en otros. Es decir, si un estado X puede convertirse en un estado Y mediante un proceso adiabático, entonces la entropía cumple que S(X) ≤ S(Y). Y en los procesos irreversibles, esta desigualdad se cumple de manera estricta S(X) < S(Y).[^6] [^7]
+
+  *Ecuación fundamental de la segunda ley*
+
+  Para un proceso cualquiera, la ecuación expresada en términos del universo es:
+
+$$
+ΔSuniverso = ΔSsistema + ΔSentorno ≥ 0
+$$
+ <div align="center">
+   
+| Valor de ΔS | Significado |
+|----------|-----------|
+| Si ΔSuniverso = 0  | Es un proceso reversible   | 
+| Si ΔSuniverso > 0   | Es un proceso irreversible   |
+|Si ΔSuniverso < 0  | Es imposible por la segunda ley    |
+
+</div>
+
+  El enunciado de la segunda ley es aplicable a las definiciones de entropía anteriormente escritas, la entropía del universo siempre aumenta, por ejemplo, bajo la definición de los microestados todo sistema va a tender al estado más probable (las moleculas de los gases distribuidas en lugar de unidas en un unico punto), o bajo el paradigma de la información, todo sistema va a evolucionar a un estado con mayor información perdida.
+  
+  La ley es universal, los diferentes paradigmas son herramientas.
+  
+  La entropía no es desorden.
+  
 
 ---
 ## Bibliografía
@@ -98,4 +127,6 @@ $$
 [^3]: Brown, T. L., LeMay, H. E., Bursten, B. E., Murphy, C. J., & Woodward, P. M. (with García Hernández, A. E.). (2014). Química: La ciencia central (12a ed.). Pearson Educación.
 [^4]: Tarragó, J. C. P., Ávila, R. M. Á., Gallardo, M. D. C. E., & Gálvez, D. L. D. (2020). La gestión de la información en un enfoque a partir de la entropía. Revista Científica Sinapsis, 1(16).
 [^5]: Stonier, T. (1989). Towards a general theory of information II: Information and entropy. Aslib Proceedings, 41(2), 41-55. https://doi.org/10.1108/eb051124
+[^6]: Lieb, E. H., & Yngvason, J. (1998). A Guide to Entropy and the Second Law. Physics Report
+[^7]: Callen, H. B. (1985). Thermodynamics and an Introduction to Thermostatistics. Wiley.
 
