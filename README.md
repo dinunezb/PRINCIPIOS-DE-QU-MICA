@@ -11,7 +11,7 @@
   
   La entropía es un concepto de la termodinámica que surgió en el siglo XIX con el estudio de los motores de calor y la eficiencia energética. Los primeros motores impulsados por combustión eran altamente ineficientes ya que gran parte de la energía liberada se “perdía” y no se transformaba en trabajo útil, lo que llevó a los físicos a buscar una forma de cuantificar esa energía no aprovechable.
 
-  En respuesta a este problema en la década de 1850 el físico alemán Rudolf Clausius introdujo el concepto de entropía como una medida de cómo se reparte el calor cuando pasa de un cuerpo a otro. Para él el aumento de entropía indica la parte del calor que se dispersa de forma irreversible al moverse hacia zonas más frías, y que ya no puede transformarse en trabajo.
+  En respuesta a este problema en la década de 1850 el físico Alemán Rudolf Clausius introdujo el concepto de entropía como una medida de cómo se reparte el calor cuando pasa de un cuerpo a otro. Para él el aumento de entropía indica la parte del calor que se dispersa de forma irreversible al moverse hacia zonas más frías, y que ya no puede transformarse en trabajo.
   Su formula principal:
 
   $$
