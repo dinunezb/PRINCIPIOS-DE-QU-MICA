@@ -36,7 +36,7 @@
   En términos generales la entropía es una medida de qué tan dispersa está la energía dentro de un sistema y de lo difícil que es volver a concentrarla por completo para obtener trabajo útil.[^1]
 
 
----
+  ---
 - 2 Definición bajo la termodinámica estadística:
 
   Para entender la entropía bajo este paradigma primero debemos definir que son los micro y macro estados.
@@ -85,7 +85,8 @@ $$
 </div>
 
  [^4][^5]
- 
+
+  --- 
 - 4 Entropía de entrelazamiento
   
   La entropía de entrelazamiento se define como la medida cuantitativa fundamental utilizada para cuantificar el grado de entrelazamiento cuántico (o correlaciones estadísticas) que existe entre un subsistema (por ejemplo, una región del espacio V) y su complemento ($\bar{V}$). Cuando el estado global del sistema es puro (es decir, sobre el cual se tiene el máximo conocimiento posible), la Entropía de Entrelazamiento se corresponde con la Entropía de von Neumann del subsistema, calculada a partir de su matriz densidad reducida ($\rho$). Esta magnitud, que permite medir la incertidumbre inherente al subsistema local, se expresa formalmente mediante la ecuación:
@@ -106,6 +107,7 @@ $$
 
 [^6] [^7]
 
+  ---
 - 5 Entropía holográfica
 
   La entropía, en el contexto de la dimensionalidad de la información, se fundamenta en el Principio Holográfico. Este principio, el cual se apoya de la Termodinámica de Agujeros Negros (donde la entropía S mide la información inaccesible de la materia que cayó en el agujero), postula que los sistemas físicos son inherentemente bidimensionales en el sentido de la información requerida para describirlos.
@@ -154,11 +156,7 @@ $$
 
 </div>
 
-  El enunciado de la segunda ley es aplicable a las definiciones de entropía anteriormente escritas, la entropía del universo siempre aumenta, por ejemplo, bajo la definición de los microestados todo sistema va a tender al estado más probable (las moleculas de los gases distribuidas en lugar de unidas en un unico punto), o bajo el paradigma de la información, todo sistema va a evolucionar a un estado con mayor información perdida.
-  
-  La ley es universal, los diferentes paradigmas son herramientas.
-  
-  La entropía no es desorden.
+  El enunciado de la segunda ley es aplicable a las definiciones de entropía anteriormente escritas, la entropía del universo siempre aumenta, por ejemplo, bajo la definición de los microestados todo sistema va a tender al estado más probable (las moleculas de los gases distribuidas en lugar de unidas en un unico punto), o bajo el paradigma de la información, todo sistema va a evolucionar a un estado con mayor información perdida. La ley es universal, los diferentes paradigmas son herramientas.
   
 
 ---
