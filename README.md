@@ -1,4 +1,11 @@
-# PRINCIPIOS DE QUÍMICA
+# PRINCIPIOS DE QUÍMICA: Taller #2 Entropía y segunda ley de la termodinámica
+
+-*Diego Alejandro Núñez Bernal* 
+
+-*Salome Gutierrez Granada* 
+
+-*Maria Claudia Colmenares Beltran*
+
 - ## Definiciones de entropía
 - 1 Definición historica
   
@@ -99,9 +106,26 @@ $$
 
 [^6] [^7]
 
-- 5
-      
-  
+- 5 Entropía holográfica
+
+  La entropía, en el contexto de la dimensionalidad de la información, se fundamenta en el Principio Holográfico. Este principio, el cual se apoya de la Termodinámica de Agujeros Negros (donde la entropía S mide la información inaccesible de la materia que cayó en el agujero), postula que los sistemas físicos son inherentemente bidimensionales en el sentido de la información requerida para describirlos.
+
+  El núcleo de esta idea es que la entropía o información máxima que puede contener una región del espacio-tiempo tridimensional está ligada al área de su frontera, y no a su volumen, sugiriendo que el mundo es un "holograma". Esta conceptualización se cuantifica mediante el Límite Holográfico, que sugiere que el número de grados de libertad se corresponde con el área superficial. Esta limitación general se expresa formalmente a través del Límite de Entropía Covariante, cuya expresión es: [^8][^9][^10]
+
+$$
+S[L(B)] \leq \frac{A(B)}{4}
+$$
+
+<div align="center">
+    
+| Símbolo | Significado |
+|----------|-----------|
+| S[L(B)]  | Entropía total de la materia, o la incertidumbre, contenida en una capa de luz   | 
+| L   | Hipersuperficie nula adyacente a la superficie B    |
+| A[B]  | Área superficial de la frontera espacial bidoimensional B que limita la región    |
+| 1/4 |Factor que indica la capacidad máxima de información (aproximandamente un bit por cada área de Planck al cuadrado) |
+
+</div>
 
 
 ---
@@ -111,7 +135,7 @@ $$
 
   Generalmente esta ley se ha explicado de varias maneras similares. Por ejemplo, Clausius dijo que el calor no puede pasar por sí solo de un cuerpo frío a uno caliente. Kelvin–Planck afirmó que no es posible convertir todo el calor absorbido en trabajo útil sin que ocurran otros cambios. Y Carathéodory señaló que cerca de cualquier estado existen otros estados que no se pueden alcanzar mediante procesos adiabáticos (procesos sin intercambio de calor)
 
-  En una definición más moderna propuesta por Lieb y Yngvason, existe una función llamada entropía que ordena los estados según si se pueden transformar adiabáticamente unos en otros. Es decir, si un estado X puede convertirse en un estado Y mediante un proceso adiabático, entonces la entropía cumple que S(X) ≤ S(Y). Y en los procesos irreversibles, esta desigualdad se cumple de manera estricta S(X) < S(Y).[^8] [^9]
+  En una definición más moderna propuesta por Lieb y Yngvason, existe una función llamada entropía que ordena los estados según si se pueden transformar adiabáticamente unos en otros. Es decir, si un estado X puede convertirse en un estado Y mediante un proceso adiabático, entonces la entropía cumple que S(X) ≤ S(Y). Y en los procesos irreversibles, esta desigualdad se cumple de manera estricta S(X) < S(Y).[^11] [^12]
 
   *Ecuación fundamental de la segunda ley*
 
@@ -147,7 +171,9 @@ $$
 
 [^6]: Benedetti, V. (2019). Entropía de entrelazamiento de gravitones linealizados (Bachelor's thesis).
 [^7]: Siegel, R. T., & Tapia, R. M. (2011). Información, entrelazamiento y relatividad. Revista Española de Física, 19(1).
-
-[^8]: Lieb, E. H., & Yngvason, J. (1998). A Guide to Entropy and the Second Law. Physics Report
-[^9]: Callen, H. B. (1985). Thermodynamics and an Introduction to Thermostatistics. Wiley.
+[^8]: García López, L. A. (2007). Termodinámica de agujeros negros y teoría de información.
+[^9]: Naz, S. M. (2003). El principio holográfico. Isagogé, 9.
+[^10]: Bousso, R. (2002). The holographic principle. arXiv.
+[^11]: Lieb, E. H., & Yngvason, J. (1998). A Guide to Entropy and the Second Law. Physics Report
+[^12]: Callen, H. B. (1985). Thermodynamics and an Introduction to Thermostatistics. Wiley.
 
